@@ -1,2 +1,3 @@
 # bike-sharing-kaggle
-this is famous data science problem on kaggle. Here, is graph plot of this problem
+download all the files including test.csv and train.csv make sur that you change address of train and test file in testfile.py
+Now run testfile.py
